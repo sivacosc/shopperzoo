@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shopperzoo/static/css/main.ab8e8818.chunk.css",
-    "main.js": "/shopperzoo/static/js/main.b3a6522d.chunk.js",
-    "main.js.map": "/shopperzoo/static/js/main.b3a6522d.chunk.js.map",
+    "main.js": "/shopperzoo/static/js/main.610e56c2.chunk.js",
+    "main.js.map": "/shopperzoo/static/js/main.610e56c2.chunk.js.map",
     "runtime~main.js": "/shopperzoo/static/js/runtime~main.a2e917bf.js",
     "runtime~main.js.map": "/shopperzoo/static/js/runtime~main.a2e917bf.js.map",
     "static/js/2.e474eb9e.chunk.js": "/shopperzoo/static/js/2.e474eb9e.chunk.js",
     "static/js/2.e474eb9e.chunk.js.map": "/shopperzoo/static/js/2.e474eb9e.chunk.js.map",
     "index.html": "/shopperzoo/index.html",
-    "precache-manifest.e7ed763219208a1e9d9c09dfca509758.js": "/shopperzoo/precache-manifest.e7ed763219208a1e9d9c09dfca509758.js",
+    "precache-manifest.93fa8b5e84979d2657a2a40ac4ebfac2.js": "/shopperzoo/precache-manifest.93fa8b5e84979d2657a2a40ac4ebfac2.js",
     "service-worker.js": "/shopperzoo/service-worker.js",
     "static/css/main.ab8e8818.chunk.css.map": "/shopperzoo/static/css/main.ab8e8818.chunk.css.map",
     "static/media/crown.ed28accb.svg": "/shopperzoo/static/media/crown.ed28accb.svg"

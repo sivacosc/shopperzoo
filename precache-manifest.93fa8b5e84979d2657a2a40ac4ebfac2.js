@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e5fbe800d8445c41dc393863fc985ff",
+    "revision": "d6c36da7a9d944e237a90d276ce824cb",
     "url": "/shopperzoo/index.html"
   },
   {
-    "revision": "623434f052cbd6454e4c",
+    "revision": "d75c5e3ed6f766e55966",
     "url": "/shopperzoo/static/css/main.ab8e8818.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shopperzoo/static/js/2.e474eb9e.chunk.js"
   },
   {
-    "revision": "623434f052cbd6454e4c",
-    "url": "/shopperzoo/static/js/main.b3a6522d.chunk.js"
+    "revision": "d75c5e3ed6f766e55966",
+    "url": "/shopperzoo/static/js/main.610e56c2.chunk.js"
   },
   {
     "revision": "d6b9f6e60dd3349068c3",
