@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopperzoo/static/css/main.ab8e8818.chunk.css",
+    "main.js": "/shopperzoo/static/js/main.e3f4a20c.chunk.js",
+    "main.js.map": "/shopperzoo/static/js/main.e3f4a20c.chunk.js.map",
+    "runtime~main.js": "/shopperzoo/static/js/runtime~main.a2e917bf.js",
+    "runtime~main.js.map": "/shopperzoo/static/js/runtime~main.a2e917bf.js.map",
+    "static/js/2.83ad1c11.chunk.js": "/shopperzoo/static/js/2.83ad1c11.chunk.js",
+    "static/js/2.83ad1c11.chunk.js.map": "/shopperzoo/static/js/2.83ad1c11.chunk.js.map",
+    "index.html": "/shopperzoo/index.html",
+    "precache-manifest.ca3c6abca4fcd89c6227d7cfd1e6930d.js": "/shopperzoo/precache-manifest.ca3c6abca4fcd89c6227d7cfd1e6930d.js",
+    "service-worker.js": "/shopperzoo/service-worker.js",
+    "static/css/main.ab8e8818.chunk.css.map": "/shopperzoo/static/css/main.ab8e8818.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/shopperzoo/static/media/crown.ed28accb.svg"
+  }
+}
