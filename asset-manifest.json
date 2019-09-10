@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shopperzoo/static/css/main.ab8e8818.chunk.css",
-    "main.js": "/shopperzoo/static/js/main.e3f4a20c.chunk.js",
-    "main.js.map": "/shopperzoo/static/js/main.e3f4a20c.chunk.js.map",
+    "main.js": "/shopperzoo/static/js/main.b3a6522d.chunk.js",
+    "main.js.map": "/shopperzoo/static/js/main.b3a6522d.chunk.js.map",
     "runtime~main.js": "/shopperzoo/static/js/runtime~main.a2e917bf.js",
     "runtime~main.js.map": "/shopperzoo/static/js/runtime~main.a2e917bf.js.map",
-    "static/js/2.83ad1c11.chunk.js": "/shopperzoo/static/js/2.83ad1c11.chunk.js",
-    "static/js/2.83ad1c11.chunk.js.map": "/shopperzoo/static/js/2.83ad1c11.chunk.js.map",
+    "static/js/2.e474eb9e.chunk.js": "/shopperzoo/static/js/2.e474eb9e.chunk.js",
+    "static/js/2.e474eb9e.chunk.js.map": "/shopperzoo/static/js/2.e474eb9e.chunk.js.map",
     "index.html": "/shopperzoo/index.html",
-    "precache-manifest.ca3c6abca4fcd89c6227d7cfd1e6930d.js": "/shopperzoo/precache-manifest.ca3c6abca4fcd89c6227d7cfd1e6930d.js",
+    "precache-manifest.e7ed763219208a1e9d9c09dfca509758.js": "/shopperzoo/precache-manifest.e7ed763219208a1e9d9c09dfca509758.js",
     "service-worker.js": "/shopperzoo/service-worker.js",
     "static/css/main.ab8e8818.chunk.css.map": "/shopperzoo/static/css/main.ab8e8818.chunk.css.map",
     "static/media/crown.ed28accb.svg": "/shopperzoo/static/media/crown.ed28accb.svg"
