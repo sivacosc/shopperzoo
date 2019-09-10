@@ -2,7 +2,7 @@
   "name": "shopperzoo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sivacosc.github.io/shopperzoo",
+  "homepage": "https://sivacosc.github.io/shopperzoo/",
   "dependencies": {
     "firebase": "^6.6.0",
     "gh-pages": "^2.1.1",
