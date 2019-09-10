@@ -1,0 +1,23 @@
+import firebase from 'firebase/app';
+import 'firebase/firestore';
+import 'firebase/auth';
+
+const config = {
+    apiKey: "asjdfkjlajslkdjfljkc",
+    authDomain: "shopperzoo.firebaseapp.com",
+    databaseURL: "https://shopperzoo.firebaseio.com",
+    projectId: "shopperzoo",
+    storageBucket: "",
+    messagingSenderId: "58989898989526",
+    appId: "1:5898989898989526:web:12eererervff"
+  }
+
+  firebase.initializeApp(config);
+  
+export const auth = firebase.auth();
+export const firestore = firebase.firestore();
+
+const provider = new firebase.auth.GoogleAuthProvider();
+provider.setCustomParameters({ prompt: 'select_account' });
+export const signInWithGoogle = () => auth.signInWithPopup(provider);
+
